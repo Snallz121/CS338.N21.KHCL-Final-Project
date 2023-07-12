@@ -35,4 +35,7 @@
 
 
 ## CHỦ ĐỀ BÁO CÁO
-* **Tên chủ đề:** Fruits fresh and rotten for classification 
+* **Tên chủ đề:** Fruits fresh and rotten for classification
+
+## Link Dataset
+https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification
